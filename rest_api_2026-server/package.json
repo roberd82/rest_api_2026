@@ -1,0 +1,17 @@
+{
+	"name": "json-vs-xml-perf-test",
+	"version": "1.0.0",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"express": "^5.2.1",
+		"xmlbuilder2": "^3.1.1"
+	}
+}
